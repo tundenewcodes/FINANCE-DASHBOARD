@@ -154,7 +154,7 @@ const Row2 = () => {
               Profit Margins
             </Typography>
             <Typography variant="h6">
-              Margins are up by 30% from last month.
+              Margins are up by 60% from last month.
             </Typography>
           </Box>
         </FlexBetween>
